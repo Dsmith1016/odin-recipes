@@ -38,5 +38,6 @@ ul#menu li {
 }
 
 th, td {
-    padding: 15px;
+    padding-top: 1px;
+    padding-bottom: 1px;
   }
