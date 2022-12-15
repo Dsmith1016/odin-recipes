@@ -19,10 +19,13 @@
 
 .service{
     float: left;
-    background: lightgray;
+    background: rgb(98, 234, 227);
     width: 29%;
     margin: 1%;
     padding: 1%;
+    height: 500px;
+    font-size: xx-large;
+    
 }
 
 h1 {
@@ -42,4 +45,9 @@ th, td {
     padding-bottom: 1px;
     padding-left: 10px;
     padding-right: 25px;
+  }
+
+  body {
+    font-family: Roboto, sans-serif;
+    font-size: 16px; 
   }
