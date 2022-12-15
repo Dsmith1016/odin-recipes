@@ -28,3 +28,7 @@
 h1 {
     text-align: center;
 }
+ul#menu li {
+    display:inline;
+}
+  
