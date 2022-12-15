@@ -40,4 +40,6 @@ ul#menu li {
 th, td {
     padding-top: 1px;
     padding-bottom: 1px;
+    padding-left: 10px;
+    padding-right: 25px;
   }
