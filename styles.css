@@ -31,4 +31,12 @@ h1 {
 ul#menu li {
     display:inline;
 }
-  
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th, td {
+    padding: 15px;
+  }
