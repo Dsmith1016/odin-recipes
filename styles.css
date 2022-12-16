@@ -32,7 +32,7 @@ h1 {
     text-align: center;
 }
 ul#menu li {
-    display:inline;
+    
 }
 
 .center {
@@ -51,4 +51,28 @@ th, td {
   body {
     font-family: Roboto, sans-serif;
     font-size: 16px; 
+  }
+
+.service li {
+    color: white;
+}
+
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+  }
+
+  div.container {
+    text-align: center;
+  }
+
+  ul {
+    font-weight: bold;
+    list-style-type: none;
+  margin: 10;
+  padding: 0;
+  font-size: larger;
+  font-stretch: expanded;
+  
+  
   }
